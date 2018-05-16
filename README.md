@@ -1,4 +1,4 @@
-# ArenaOfValor-
+# ArenaOfValor
 傳說對決 - update by 2018-05-16
 
 # 前言
